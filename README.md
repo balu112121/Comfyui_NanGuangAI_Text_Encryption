@@ -1,0 +1,2 @@
+# Comfyui_NanGuangAI_Text_Encryption
+Comfyui_NanGuangAI_Text_Encryption  # Comfyui 南光AI文本加密插件
